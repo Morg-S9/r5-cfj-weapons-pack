@@ -141,9 +141,9 @@ WeaponData
     "ammo_min_to_fire"								"0"
 
     // Damage - When Used by Players
-    "damage_near_value"   							"170000000000"
-    "damage_far_value"								"1700000000"
-    "damage_very_far_value"							"170000"
+    "damage_near_value"   							"500000"
+    "damage_far_value"								"50000"
+    "damage_very_far_value"							"5000"
     "damage_near_value_titanarmor"					"17"
     "damage_far_value_titanarmor" 					"17"
     "damage_very_far_value_titanarmor" 				"17"
