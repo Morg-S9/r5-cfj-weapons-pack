@@ -2,4 +2,4 @@
 
 ### Weapon List 
 
-None atm, will add when Tyler is finished making his.
+Altos-1 Calldown: Airstrike-style weapon. (Santokutyler)
