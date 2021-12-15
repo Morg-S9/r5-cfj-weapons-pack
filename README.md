@@ -7,3 +7,5 @@ Finish the pack (duh)
 Make an installer
 
 Ensure compatibilty with JANU Weapon Framework 3.0 and 2.0
+
+Make a tutorial video for manual installation
