@@ -2,6 +2,6 @@
 
 ### Weapon List
 
-Dreader Shotgun Pistol (Morg)
+Dreader: Basic Shotgun Pistol (Morg)
 
-S9 Tailor Adaptive Shotgun/Assault Rifle (Morg)
+S9 Tailor: Adaptive Shotgun/Assault Rifle (Morg)
