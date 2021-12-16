@@ -161,10 +161,10 @@ WeaponData
 
 	// Behavior
 	"fire_rate"   									"2.2"
-	"reload_time" 									"5.0"
-	"reload_time_late1" 							"1.05"
-	"reloadempty_time"								"2.6"
-	"reloadempty_time_late1"						"1.5"
+	"reload_time" 									"20.0"
+	"reload_time_late1" 							"20.0"
+	"reloadempty_time"								"20.0"
+	"reloadempty_time_late1"						"20.0"
 
 	// Spread
     // for projectile shotguns, set this to the size of the spread pattern at the intended engagement range
